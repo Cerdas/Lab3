@@ -26,9 +26,6 @@ public class EvenNumSum {
 		
 		// printing sum of numbers
 		System.out.print("The sum of numbers between 2 and " + number + " is " + sum);
-		
-		
-				
 
 	}
 
