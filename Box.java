@@ -30,11 +30,14 @@ public class Box {
 
 	public static void main(String[] args) {
 
-		// Changing size by using dot product
-		Box.size = 5;
+		// Creating object 
+		Box starbox = new Box();
 		
-		// Printing star box
-		printBox();
+		// Changing size by using dot operator
+		starbox.size = 5;
+		
+		// Printing star box by using dot operator
+		starbox.printBox();
 
 	}
 }
